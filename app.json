@@ -2,6 +2,6 @@
   "name": "API.AI webhook for EduCollab",
   "description": "API.AI webhook for EduCollab",
   "repository": "https://github.com/Wilkhu90/HerokuWebhook",
-  "logo": "",
+  "logo": "https://boulder.startupweek.co/wp-content/uploads/sites/23/2016/05/Spark-Logo-bsw-1024x1024.png",
   "keywords": ["api.ai", "natural language"]
 }
